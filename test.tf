@@ -6,3 +6,4 @@ resource "azurerm_resource_group" "rg" {
 }
 
 Adding extr lines
+Adding extra lines on github
