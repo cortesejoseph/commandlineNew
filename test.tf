@@ -7,3 +7,4 @@ resource "azurerm_resource_group" "rg" {
 
 Adding extr lines
 Adding extra lines on github
+adding extra lines again github. Use git pull origin master
